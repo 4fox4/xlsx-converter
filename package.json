@@ -1,0 +1,22 @@
+{
+  "name": "xlsx-converter",
+  "version": "1.0.0",
+  "description": "Convert XLSX files to JSON, CSV, ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4fox4/xlsx-converter.git"
+  },
+  "author": "houlekhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4fox4/xlsx-converter/issues"
+  },
+  "homepage": "https://github.com/4fox4/xlsx-converter#readme",
+  "dependencies": {
+    "xlsx": "^0.15.5"
+  }
+}
