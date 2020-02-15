@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/4fox4/xlsx-converter#readme",
   "dependencies": {
+    "date-fns": "^2.9.0",
+    "inquirer": "^7.0.4",
     "xlsx": "^0.15.5"
   }
 }
